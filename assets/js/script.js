@@ -1,9 +1,6 @@
 'use strict';
 
-/**
- * navbar toggle
- */
-
+/** navbar toggle */
 const overlay = document.querySelector("[data-overlay]");
 const navOpenBtn = document.querySelector("[data-nav-open-btn]");
 const navbar = document.querySelector("[data-navbar]");
@@ -20,21 +17,14 @@ const navToggleEvent = function (elem) {
     });
   }
 }
-
 navToggleEvent(navElemArr);
 navToggleEvent(navLinks);
 
-
-
-/**
- * header sticky & go to top
- */
-
+/** header sticky & go to top */
 const header = document.querySelector("[data-header]");
 const goTopBtn = document.querySelector("[data-go-top]");
 
 window.addEventListener("scroll", function () {
-
   if (window.scrollY >= 200) {
     header.classList.add("active");
     goTopBtn.classList.add("active");
@@ -42,5 +32,4 @@ window.addEventListener("scroll", function () {
     header.classList.remove("active");
     goTopBtn.classList.remove("active");
   }
-
 });
