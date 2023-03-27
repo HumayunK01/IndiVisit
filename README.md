@@ -1,10 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourly)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourly?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourly?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/FYFmQEpZywc?style=social)](https://youtu.be/FYFmQEpZywc)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/HumayunK01/IndiVisit)
+  ![GitHub stars](https://img.shields.io/github/stars/HumayunK01/IndiVisit?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/cHumayunK01/IndiVisit?style=social)
 
   <br />
   <br />
