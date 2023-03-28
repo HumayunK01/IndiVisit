@@ -1,8 +1,5 @@
 :root {
-  /**
-   * colors
-   */
-
+  /* colors */
   --united-nations-blue: hsl(214, 56%, 58%);
   --bright-navy-blue: hsl(214, 57%, 51%);
   --spanish-gray: hsl(0, 0%, 60%);
@@ -18,8 +15,7 @@
   --onyx: hsl(0, 0%, 25%);
   --jet: hsl(0, 0%, 20%);
 
-  /**
-  * typography */
+  /* typography */
 
   --ff-poppins: "Poppins", sans-serif;
   --ff-montserrat: "Montserrat", sans-serif;
@@ -38,12 +34,10 @@
   --fw-700: 700;
   --fw-800: 800;
 
-  /**
-  * transition */
+  /* transition */
   --transition: 0.25s ease-in-out;
 
-  /** 
-  * spacing */
+  /* spacing */
   --section-padding: 60px;
 
   /**
